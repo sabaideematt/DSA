@@ -1,0 +1,8 @@
+Design Distributed Cache For a Scalable Application similar to twitter
+ 
+This is an internal SAS offering. It is completely managed offering to 
+which Leadership wanted to provide to all the team
+within twitter for low latency and high availability
+
+Ashish 7:00 PM
+pec.ashish@gmail.com
